@@ -1,0 +1,31 @@
+{
+  "name": "mainevaluation4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KASIREDDYASMITHA/MainEvaluation4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KASIREDDYASMITHA/MainEvaluation4/issues"
+  },
+  "homepage": "https://github.com/KASIREDDYASMITHA/MainEvaluation4#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.93.3",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
